@@ -1,6 +1,18 @@
+<h1 align="center">Cloudy Tickets-v2</h1>
+
+<br>
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>
+  <p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/shateixeira/cloudytickets-v2.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/shateixeira/cloudytickets-v2.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/shateixeira/cloudytickets-v2.svg">
+  <a href="https://github.com/shateixeira/cloudytickets-v2/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shateixeira/cloudytickets-v2.svg">
+  </a>
+</p>
 </p>
 
 <br>
